@@ -1,0 +1,26 @@
+body{
+    background-color: lightpink;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 20px; 
+}
+
+#div1{
+    background-color: yellow;
+    color: black;
+    font-weight: 900;
+    border-radius: 20px;
+    text-align: center;
+}
+
+button{
+    background-color: rgb(120, 216, 243);
+    color: black;
+    padding: 10px;
+}
+
+
+

@@ -1,0 +1,35 @@
+body{
+    background-color: rgba(0, 0, 0, 0.438);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 100vh;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+}
+p{
+    text-align: center;
+    color: antiquewhite;
+    font-size: 20px;
+}
+button{
+    height: 60px;
+    width: 60px;
+    font-size: 20px;
+}
+.operation{
+    background-color: rgb(237, 156, 183);
+}
+#decimal{
+    background-color: aqua;
+}
+#equal{
+    background-color: lightgreen;
+}
+#clear1{
+    background-color: lightsalmon;
+}
